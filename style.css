@@ -1,0 +1,23 @@
+.container{
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+}
+
+input[type=submit]{
+    border: 0px;
+    padding: 7px 15px;
+    font-size: 16px;
+    background-color: #00a1a1;
+    color: white;
+    font-weight: bold;
+}
+
+.select-image.active{
+    padding: 5px;
+    background-color: blue;
+}
+
+.ui-hidden{
+    display: none;
+}
